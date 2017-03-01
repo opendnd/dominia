@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/opendnd/dominia/issues"
   },
-  "homepage": "https://github.com/opendnd/dominia#readme"
+  "homepage": "https://github.com/opendnd/dominia#readme",
+  "bin": {
+    "dominia": "./bin/dominia"
+  },
+  "dependencies": {
+    "commander": "^2.9.0"
+  }
 }
