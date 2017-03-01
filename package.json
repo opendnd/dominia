@@ -1,0 +1,20 @@
+{
+  "name": "dominia",
+  "version": "0.0.1",
+  "description": "A tool for generating a kingdom in your custom world",
+  "main": "dominia.js",
+  "scripts": {
+    "start": "node dominia.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/opendnd/dominia.git"
+  },
+  "author": "Drew Morris <dhmorris@gmail.com> (http://github.com/drewry)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/opendnd/dominia/issues"
+  },
+  "homepage": "https://github.com/opendnd/dominia#readme"
+}
