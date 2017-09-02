@@ -4,8 +4,8 @@
   "description": "A tool for generating a kingdom in your custom world",
   "main": "dominia.js",
   "scripts": {
-    "start": "node dominia.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "bin/dominia",
+    "test": "mocha --reporter spec 'test/**/*.js'"
   },
   "repository": {
     "type": "git",
@@ -21,6 +21,11 @@
     "dominia": "./bin/dominia"
   },
   "dependencies": {
-    "commander": "^2.9.0"
+    "colors": "^1.1.2",
+    "commander": "^2.11.0"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^3.5.0"
   }
 }
