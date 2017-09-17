@@ -2,7 +2,7 @@
   "name": "dominia",
   "version": "0.0.1",
   "description": "A tool for generating a kingdom in your custom world",
-  "main": "dominia.js",
+  "main": "lib/dominia.js",
   "scripts": {
     "start": "bin/dominia",
     "test": "mocha --reporter spec 'test/**/*.js'"
@@ -23,6 +23,7 @@
   "dependencies": {
     "colors": "^1.1.2",
     "commander": "^2.11.0",
+    "nomina": "^0.2.0",
     "randgen": "^0.1.0",
     "roll": "^1.2.0"
   },
