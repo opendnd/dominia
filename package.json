@@ -5,7 +5,7 @@
   "main": "dominia.js",
   "scripts": {
     "start": "bin/dominia",
-    "test": "mocha --reporter spec 'test/**/*.js'"
+    "test": "./node_modules/mocha/bin/mocha --reporter spec 'test/**/*.js'"
   },
   "repository": {
     "type": "git",
