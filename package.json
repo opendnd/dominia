@@ -24,7 +24,7 @@
     "colors": "^1.1.2",
     "commander": "^2.11.0",
     "node-zip": "^1.1.1",
-    "nomina": "^0.2.0",
+    "nomina": "^0.2.2",
     "numeral": "^2.0.6",
     "questions": "0.0.6",
     "randgen": "^0.1.0",
