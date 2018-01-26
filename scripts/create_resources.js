@@ -1,5 +1,3 @@
-/* eslint-disable */
-
 const fs = require('fs');
 const xlsx = require('node-xlsx');
 const path = require('path');
