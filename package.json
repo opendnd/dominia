@@ -26,7 +26,7 @@
     "colors": "^1.1.2",
     "commander": "^2.13.0",
     "node-zip": "^1.1.1",
-    "nomina": "^0.4.2",
+    "nomina": "^0.4.3",
     "numeral": "^2.0.6",
     "questions": "0.0.6",
     "randgen": "^0.1.0",
@@ -34,10 +34,10 @@
   },
   "devDependencies": {
     "chai": "^4.1.2",
-    "eslint": "^3.16.1",
+    "eslint": "^4.19.1",
     "eslint-config-airbnb-base": "^11.1.0",
-    "eslint-plugin-import": "^2.2.0",
-    "mocha": "^3.5.3",
+    "eslint-plugin-import": "^2.12.0",
+    "mocha": "^5.2.0",
     "node-xlsx": "^0.11.2"
   }
 }

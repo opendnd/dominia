@@ -9,10 +9,6 @@ describe('defaults', () => {
     expect(defaults).to.be.an('object');
   });
 
-  it('has themes', () => {
-    expect(defaults.themes).to.be.an('array');
-  });
-
   it('has measurements', () => {
     expect(defaults.measurements).to.be.an('object');
   });
